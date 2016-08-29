@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="这是当前界面"
+        android:layout_gravity="center"/>
+
+<!--    <com.jungly.gridpasswordview.GridPasswordView
+        android:id="@+id/pswView"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        app:textColor="#2196F3"
+        app:textSize="25sp"
+        app:dividerColor="#2196F3"
+        app:passwordLength="6"
+        app:passwordType="textPassword"/>-->
+
+</LinearLayout>
